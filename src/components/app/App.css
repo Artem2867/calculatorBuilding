@@ -35,8 +35,12 @@
 .items {
     margin-bottom: 15px
 }
-.message {
+.ok {
     text-align: center;
+}
+.error {
+    text-align: center;
+    color: red;
 }
 .item {
     text-align: left;

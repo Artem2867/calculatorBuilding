@@ -12,7 +12,7 @@ const Result = (props) => {
                 <div className='subtitle'>
                     Успешно
                 </div>
-                <div className='message'>
+                <div className='ok'>
                     {props.message}
                 </div>
             </div>

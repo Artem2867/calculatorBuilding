@@ -12,7 +12,7 @@ const ErrorResult = (props) => {
                 <div className='subtitle'>
                     Ошибка
                 </div>
-                <div className='message'>
+                <div className='error'>
                     {props.message}
                 </div>
             </div>
